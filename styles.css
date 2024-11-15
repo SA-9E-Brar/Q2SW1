@@ -1,0 +1,25 @@
+body{
+    background-color: lightcoral ;
+    background-image: url(fiction.png);
+}
+
+h1{
+    text-align: center;
+    background-color: ;
+}
+
+th{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+.animate__animated.animate__flash {
+  --animate-duration: 4s;
+}
+
+table, th, td{
+    border: 2px solid block;
+}
